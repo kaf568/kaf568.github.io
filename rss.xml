@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Hexo</title>
-        <subtitle></subtitle>
+        <title>lazy cat</title>
+        <subtitle>my guiding star</subtitle>
         <icon>http://example.com/assets/favicon.ico</icon>
         <link>http://example.com</link>
         <author>
-          <name>John Doe</name>
+          <name>kaf568</name>
         </author>
-        <description></description>
-        <language>en</language>
+        <description>acg | ctf</description>
+        <language>zh-CN</language>
         <pubDate>Mon, 07 Oct 2024 16:31:17 +0800</pubDate>
         <lastBuildDate>Mon, 07 Oct 2024 16:31:17 +0800</lastBuildDate>
         <item>
