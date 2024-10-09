@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>lazy cat</title>
+        <title>ただ惨めだけが 夜を庇った</title>
         <subtitle>my guiding star</subtitle>
         <icon>http://example.com/assets/favicon.ico</icon>
         <link>http://example.com</link>
@@ -12,6 +12,10 @@
         <language>zh-CN</language>
         <pubDate>Mon, 07 Oct 2024 16:31:17 +0800</pubDate>
         <lastBuildDate>Mon, 07 Oct 2024 16:31:17 +0800</lastBuildDate>
+        <category term="ctf" />
+        <category term="ai" />
+        <category term="misc" />
+        <category term="python" />
         <item>
             <guid isPermalink="true">http://example.com/2024/10/07/hello-world/</guid>
             <title>Hello World</title>

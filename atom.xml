@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://example.com</id>
-    <title>lazy cat</title>
+    <title>ただ惨めだけが 夜を庇った</title>
     <subtitle>my guiding star</subtitle>
     <icon>http://example.com/assets/favicon.ico</icon>
     <link href="http://example.com" />
@@ -9,6 +9,10 @@
       <name>kaf568</name>
     </author>
     <updated>2024-10-07T08:31:17.174Z</updated>
+    <category term="ctf" />
+    <category term="ai" />
+    <category term="misc" />
+    <category term="python" />
     <entry>
         <id>http://example.com/2024/10/07/hello-world/</id>
         <title>Hello World</title>
