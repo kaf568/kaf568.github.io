@@ -3,9 +3,19 @@
     "title": "ただ惨めだけが 夜を庇った",
     "subtitle": "my guiding star",
     "icon": "http://example.com/assets/favicon.ico",
-    "description": "acg | ctf",
+    "description": "kaf568's blog",
     "home_page_url": "http://example.com",
     "items": [
+        {
+            "id": "http://example.com/2024/10/09/numerical-analysis/%E5%85%B3%E4%BA%8E%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%E7%9A%84%E8%8C%83%E6%95%B0/",
+            "url": "http://example.com/2024/10/09/numerical-analysis/%E5%85%B3%E4%BA%8E%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%E7%9A%84%E8%8C%83%E6%95%B0/",
+            "title": "关于数值分析的范数",
+            "date_published": "2024-10-08T16:00:00.000Z",
+            "content_html": "<h1 id=\"过会再写\"><a href=\"#过会再写\" class=\"headerlink\" title=\"过会再写\"></a>过会再写</h1>",
+            "tags": [
+                "数值分析"
+            ]
+        },
         {
             "id": "http://example.com/2024/10/07/hello-world/",
             "url": "http://example.com/2024/10/07/hello-world/",
